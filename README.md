@@ -2,8 +2,8 @@
 
 Welcome to **My Portfolio**! This project is a React.js application designed to showcase my skills, projects, and experiences as a web developer. It's an online space where you can explore my work, discover my abilities, and get in touch with me.
 
-🔗 [Live Website](#)  
-📂 [GitHub Repository](https://github.com/Pappu-Kr-Singh/Portfolio)
+🔗 [Live Website](https://aman-s-portfolio.vercel.app/)  
+📂 [GitHub Repository](https://github.com/amanbhati/Aman-s-Portfolio.git)
 
 ## 📜 Table of Contents
 - [Introduction](#introduction)
