@@ -5,11 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/amanbhati",
   resume:
-<<<<<<< HEAD
-    "https://drive.google.com/file/d/1EzGxn_-hbB5SpTDbZcXMQ8_p3AxXpKsr/view?usp=sharing",
-=======
-    "https://drive.google.com/file/d/19SxUFz1oenzympomXOycyN1INyP_hLsF/view?usp=sharing",
->>>>>>> d40d78581cf6a71648728d227c2d81e14e805c76
+    "https://drive.google.com/file/d/1jlsuBnIkOkOWu8uW5KpY722Qe_C7Bwrx/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aman-bhati-1b30a41a0/",
   twitter: "https://x.com/AmanKumarBhati6",
 };
